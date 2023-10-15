@@ -29,5 +29,9 @@ Reset value: 0x0000 0000
 Address offset: 0x10  
 Reset value: 0x0000 XXXX (where X means undefined)  
 
+4. Can you read the register directly and see the button change in a debugger?
+Yes, I can see it. However, I am not sure if I am looking at the right thing.
+I may update this answer in a couple of days since 
+
 
 
