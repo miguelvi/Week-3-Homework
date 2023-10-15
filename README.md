@@ -1,6 +1,6 @@
 # Week-3-Homework
-Week 3 Homework -Making Embedded
-BLinky LEDS
+Week 3 Homework -Making Embedded  
+BLinky LEDS  
 Blink LED using the USER button
 
 Questions:
